@@ -1,0 +1,10 @@
+Registered unemployment rate — https://bdl.stat.gov.pl/bdl/dane/podgrup/wymiary
+
+
+Average monthly gross wages and salaries — https://bdl.stat.gov.pl/bdl/dane/podgrup/wymiary
+
+
+Population — https://data.worldbank.org/indicator/SP.POP.TOTL?locations=PL
+
+
+Inflation — https://nbp.pl/statystyka-i-sprawozdawczosc/inflacja-bazowa/
