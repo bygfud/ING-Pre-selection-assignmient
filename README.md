@@ -1,4 +1,5 @@
 **Real Estate Price Prediction**
+
 The process involves:
 
 Scraping real estate offers (apartments, houses, studios) from the Otodom platform.
